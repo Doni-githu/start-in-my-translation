@@ -1,0 +1,8 @@
+{
+    "header": {
+        "message": "Hello Man"
+    },
+    "home":{
+        "message": "What do you do"
+    }
+}
